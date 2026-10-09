@@ -18,7 +18,7 @@ npm run build && npm start   # production build
 | about_me.txt   | Notepad-style intro, profile card, likes.exe / dislikes.exe |
 | projects       | Explorer window — click a file to see project details (thesis is starred) |
 | career.exe     | Experience timeline |
-| skills         | "Control Panel" of skills + IELTS scores |
+| skills         | "Control Panel" of skills |
 | school.exe     | Education |
 | messenger      | Messenger-style contact window (Send opens the visitor's email app; nudge shakes the window) |
 | Paint          | Working paint app: pencil, brush, airbrush, eraser, fill bucket, heart/star stamps, save as PNG |
